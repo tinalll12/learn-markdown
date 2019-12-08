@@ -6,7 +6,7 @@
 
 This is a __bold__ *italic* text sample.
 
-This is a [hyperlink](https://github.com/neolee/pilot-student)
+This is a [hyperlink](More.md)
 
 > 我们已经见过不少函数，也自己写过一些函数。我们已经理解函数的概念来自代数：从输入参数出发，计算出函数的返回值
 >
